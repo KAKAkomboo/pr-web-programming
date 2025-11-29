@@ -131,10 +131,6 @@ h3 {
     border: 2px solid #e0812a;
 }
 
-#world {
-    background: url('https://i.imgur.com/jG5e1Gg.jpeg') no-repeat center/cover;
-    background-attachment: fixed;
-}
 
 .world-grid {
     display: grid;
